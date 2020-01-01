@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mission>
+	<version value="2.3-pre8"/>
+	<mwp cx="23.6021267" cy="46.6826586" zoom="12.903333333333334"/>
+	<missionitem no="1" action="WAYPOINT" lon="23.594599" lat="46.7113646" alt="100"/>
+	<missionitem no="2" action="WAYPOINT" lon="23.5561701" lat="46.6733336" alt="100"/>
+	<missionitem no="3" action="WAYPOINT" lon="23.542639" lat="46.6491586" alt="100"/>
+	<missionitem no="4" action="WAYPOINT" lon="23.5844131" lat="46.6505206" alt="100"/>
+	<missionitem no="5" action="RTH" lon="0" lat="0" alt="100" parameter1="0"/>
+</mission>
